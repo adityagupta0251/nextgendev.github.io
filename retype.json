@@ -1,0 +1,11 @@
+{
+  "title":      "NextGen Dev Docs",
+  "branding":   { "logo": "static/logo.svg" },
+  "navigation": [
+    { "label": "Home", "url": "/" },
+    { "label": "Chapter 1", "url": "/chapter-01/" },
+    { "label": "API",       "url": "/api/" }
+  ],
+  "theme":      "light",
+  "plugins":    []
+}

@@ -1,0 +1,20 @@
+input: .
+output: .retype
+
+url: docs.nextgendev.space # Use your website address here
+
+start:
+  # Uncomment the next line to try Retype Pro features
+  # pro: true
+
+branding:
+  title: Next Dev docs
+  label: Docs
+  logo: static/logo.svg
+
+links:
+  - text: Getting Started
+    link: https://nextgendev.space/
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
