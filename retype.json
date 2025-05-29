@@ -1,11 +1,42 @@
 {
-  "title":      "NextGen Dev Docs",
-  "branding":   { "logo": "static/logo.svg" },
+  "title":    "NextGen Dev Docs",
+  "branding": {
+    "logo": "static/logo.svg"
+  },
   "navigation": [
-    { "label": "Home", "url": "/" },
-    { "label": "Chapter 1", "url": "/chapter-01/" },
-    { "label": "API",       "url": "/api/" }
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Chapter 1: Introduction",
+      "url": "/chapter-01/"
+    },
+    {
+      "label": "Chapter 2: Building & Integrating Your Jokes API",
+      "url": "/chapter-02/"
+    },
+    {
+      "label": "Chapter 3: Persistence with MongoDB & Mongoose",
+      "url": "/chapter-03/"
+    },
+    {
+      "label": "Chapter 4: Hospital Management System",
+      "url": "/chapter-04/"
+    },
+    {
+      "label": "Chapter 5: [Placeholder for Chapter 5]",
+      "url": "/chapter-05/"
+    },
+    {
+      "label": "Chapter 6: Robust API Infrastructure & Error Handling",
+      "url": "/chapter-06/"
+    },
+    {
+      "label": "API Reference",
+      "url": "/api/"
+    }
   ],
-  "theme":      "light",
-  "plugins":    []
+  "theme":   "light",
+  "plugins": []
 }

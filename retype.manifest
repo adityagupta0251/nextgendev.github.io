@@ -1,6 +1,6 @@
 {
   "version": "3.9.0",
-  "created": "2025-05-29T14:54:20Z",
+  "created": "2025-05-29T15:38:10Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -34,6 +34,12 @@
     },
     {
       "path": "index.html"
+    },
+    {
+      "path": "package-lock.json"
+    },
+    {
+      "path": "package.json"
     },
     {
       "path": "resources\\css\\retype.css"

@@ -1,0 +1,12 @@
+{
+  "name": "nextgen-dev-docs",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "retype watch",
+    "build": "retype build",
+    "serve": "retype serve"
+  },
+  "devDependencies": {
+    "retypeapp": "^1.11.2"
+  }
+}
